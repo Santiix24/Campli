@@ -18,19 +18,19 @@ export function Home() {
     {
       name: "Ana García",
       role: "Fotógrafa de Bodas",
-      image: "https://images.unsplash.com/photo-1618876561985-ff3a14af4cf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBob3RvZ3JhcGhlciUyMHByb2Zlc3Npb25hbHxlbnwxfHx8fDE3NzI2MzgzODR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "https://images.unsplash.com/photo-1618876561985-ff3a14af4cf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBob3RvZ3JhcGhlciUyMHByb2Zlc3Npb25hbHxlbnwxfHx8fDE3NzI2MzgzODR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
       text: "Campli transformó mi forma de trabajar. La calidad de imagen es excepcional y el precio es increíblemente accesible. He capturado más de 50 bodas con mi X-Pro 3."
     },
     {
       name: "Carlos Mendoza",
       role: "Creador de Contenido",
-      image: "https://images.unsplash.com/photo-1588420635201-3a9e2a2a0a07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoZXIlMjBtYW4lMjBjYW1lcmF8ZW58MXx8fHwxNzcyNjM4Mzg0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "https://images.unsplash.com/photo-1588420635201-3a9e2a2a0a07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoZXIlMjBtYW4lMjBjYW1lcmF8ZW58MXx8fHwxNzcyNjM4Mzg0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
       text: "Como YouTuber, necesitaba una cámara versátil para foto y video. La Creator Z superó todas mis expectativas. El autofocus es brutalmente rápido."
     },
     {
       name: "María Rodríguez",
       role: "Fotógrafa de Moda",
-      image: "https://images.unsplash.com/photo-1708006247791-00eee9388480?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoZXIlMjBwb3J0cmFpdCUyMGNyZWF0aXZlfGVufDF8fHx8MTc3MjYzODM4M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      image: "https://images.unsplash.com/photo-1708006247791-00eee9388480?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoZXIlMjBwb3J0cmFpdCUyMGNyZWF0aXZlfGVufDF8fHx8MTc3MjYzODM4M3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
       text: "La Studio Max es una bestia. Los 102MP me permiten hacer ediciones extremas sin perder calidad. Mis clientes están impresionados con los resultados."
     }
   ];

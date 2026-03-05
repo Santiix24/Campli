@@ -30,7 +30,7 @@ export const products: Product[] = [
       "Pantalla táctil articulada de 3.2 pulgadas",
       "Doble ranura para tarjetas SD"
     ],
-    image: "https://images.unsplash.com/photo-1712594759797-c7838c645e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBjYW1lcmElMjBtaXJyb3JsZXNzfGVufDF8fHx8MTc3MjYzNzUzOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://images.unsplash.com/photo-1712594759797-c7838c645e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBjYW1lcmElMjBtaXJyb3JsZXNzfGVufDF8fHx8MTc3MjYzNzUzOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
     specs: {
       sensor: "Full-frame CMOS",
       resolution: "45.7 MP",
@@ -53,7 +53,7 @@ export const products: Product[] = [
       "Compatible con películas ISO 100-3200",
       "Diseño retro elegante"
     ],
-    image: "https://images.unsplash.com/photo-1697238724718-29cc8b1a2340?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwY2FtZXJhJTIwZmlsbXxlbnwxfHx8fDE3NzI2MDM4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://images.unsplash.com/photo-1697238724718-29cc8b1a2340?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwY2FtZXJhJTIwZmlsbXxlbnwxfHx8fDE3NzI2MDM4Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
     specs: {
       sensor: "Película 35mm",
       resolution: "N/A",
@@ -76,7 +76,7 @@ export const products: Product[] = [
       "Pantalla táctil de 3.2 pulgadas",
       "Resistente al clima y al polvo"
     ],
-    image: "https://images.unsplash.com/photo-1588420635201-3a9e2a2a0a07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYW1lcmElMjBwaG90b2dyYXBoeSUyMHN0dWRpb3xlbnwxfHx8fDE3NzI2Mzc1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://images.unsplash.com/photo-1588420635201-3a9e2a2a0a07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYW1lcmElMjBwaG90b2dyYXBoeSUyMHN0dWRpb3xlbnwxfHx8fDE3NzI2Mzc1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
     specs: {
       sensor: "Medio formato CMOS",
       resolution: "102 MP",
@@ -99,7 +99,7 @@ export const products: Product[] = [
       "Pantalla táctil abatible",
       "Wi-Fi y Bluetooth integrados"
     ],
-    image: "https://images.unsplash.com/photo-1758506127287-6c114e3cc8ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwY2FtZXJhJTIwZXF1aXBtZW50fGVufDF8fHx8MTc3MjYzNzUzOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://images.unsplash.com/photo-1758506127287-6c114e3cc8ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwY2FtZXJhJTIwZXF1aXBtZW50fGVufDF8fHx8MTc3MjYzNzUzOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
     specs: {
       sensor: "APS-C CMOS",
       resolution: "24.2 MP",
@@ -122,7 +122,7 @@ export const products: Product[] = [
       "Batería de larga duración",
       "Menú optimizado para video"
     ],
-    image: "https://images.unsplash.com/photo-1745848037998-1e6dc8380f7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBjYW1lcmElMjBsZW5zfGVufDF8fHx8MTc3MjYzNzUzOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://images.unsplash.com/photo-1745848037998-1e6dc8380f7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBjYW1lcmElMjBsZW5zfGVufDF8fHx8MTc3MjYzNzUzOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
     specs: {
       sensor: "Full-frame CMOS",
       resolution: "33 MP",
@@ -145,7 +145,7 @@ export const products: Product[] = [
       "2 baterías adicionales",
       "Bolsa de transporte premium"
     ],
-    image: "https://images.unsplash.com/photo-1629227697594-fe8453e4b480?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoZXIlMjB3b3Jrc3BhY2UlMjBjYW1lcmF8ZW58MXx8fHwxNzcyNjM3NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://images.unsplash.com/photo-1629227697594-fe8453e4b480?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoZXIlMjB3b3Jrc3BhY2UlMjBjYW1lcmF8ZW58MXx8fHwxNzcyNjM3NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=unsplash&utm_medium=referral",
     specs: {
       sensor: "Full-frame CMOS",
       resolution: "45.7 MP",
