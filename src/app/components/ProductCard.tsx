@@ -45,7 +45,7 @@ export function ProductCard({ product }: ProductCardProps) {
             className="text-[#4A3428]"
             style={{ fontFamily: 'var(--font-space-grotesk)' }}
           >
-            ${product.price.toLocaleString('es-MX')} MXN
+            ${product.price.toLocaleString('es-CO')} COP
           </span>
           <div className="flex items-center gap-2 text-[#1F3A40] group-hover:gap-3 transition-all">
             <span style={{ fontFamily: 'var(--font-space-grotesk)' }}>

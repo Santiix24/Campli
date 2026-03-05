@@ -105,7 +105,7 @@ export function ProductDetail() {
                   className="text-4xl text-[#4A3428] mb-6"
                   style={{ fontFamily: 'var(--font-space-grotesk)', fontWeight: 600 }}
                 >
-                  ${product.price.toLocaleString('es-MX')} MXN
+                  ${product.price.toLocaleString('es-CO')} COP
                 </p>
 
                 <div className="flex gap-4">

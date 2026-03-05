@@ -89,8 +89,8 @@ export function Footer() {
             </h3>
             <ul className="space-y-2 text-[#F5F1EB]/80" style={{ fontFamily: 'var(--font-dm-sans)' }}>
               <li>info@campli.com</li>
-              <li>+52 55 1234 5678</li>
-              <li>Ciudad de México</li>
+              <li>+57 601 234 5678</li>
+              <li>Bogotá, Colombia</li>
             </ul>
           </div>
         </div>

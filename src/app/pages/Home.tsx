@@ -41,12 +41,12 @@ export function Home() {
       answer: "Sí, todos nuestros productos incluyen garantía de 2 años contra defectos de fabricación. Además, ofrecemos soporte técnico gratuito durante toda la vida útil del producto."
     },
     {
-      question: "¿Hacen envíos a toda la República Mexicana?",
-      answer: "Sí, realizamos envíos a todo México. Los envíos son gratuitos en compras mayores a $15,000 MXN. El tiempo de entrega es de 3-5 días hábiles."
+      question: "¿Hacen envíos a toda Colombia?",
+      answer: "Sí, realizamos envíos a todo el país. Los envíos son gratuitos en compras mayores a $150.000 COP. El tiempo de entrega es de 3-5 días hábiles."
     },
     {
       question: "¿Puedo probar la cámara antes de comprarla?",
-      answer: "Tenemos showrooms en Ciudad de México, Guadalajara y Monterrey donde puedes probar nuestros productos. También ofrecemos 30 días de garantía de devolución si no quedas satisfecho."
+      answer: "Tenemos showrooms en Bogotá, Medellín y Cali donde puedes probar nuestros productos. También ofrecemos 30 días de garantía de devolución si no quedas satisfecho."
     },
     {
       question: "¿Ofrecen financiamiento?",
